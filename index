@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8" />
+
+	    <title>Profile Page</title>
+
+	</head>
+
+	<body style="background-color: #FF9A8B;
+    background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+    ">
+
+        <h1 align="center" style="color: rgb(114, 39, 64)"><u>Profile Page</u></h1>
+
+        <hr>
+
+        <div>
+
+            <div style="position: absolute;top: 100px; left: 100px;">
+
+                <h3 align="center"><u>Profile Picture</u></h3>
+
+                <br>
+
+                <img src="pfp.JPG" width="200" height="230">
+
+            </div>
+
+            <div style="position: absolute;top: 400px; left: 30px;">
+
+                <table align=center cellpadding="5" cellspacing="10" stlye = "font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+
+                    <h3 align="center" style= "font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"><u>Personal Information</u><br></h3>
+                    
+                    <tr>
+
+                        <td><b>Name:</b></td>
+
+                        <td>Siddharth Rawlani</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Age:</b></td>
+
+                        <td>20</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Date of Birth:</b></td>
+
+                        <td>19/09/2002</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Gender:</b></td>
+
+                        <td>male</td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td><b>Phone No:</b></td>
+
+                        <td>9123456789</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Email Id:</b></td>
+
+                        <td>2020.siddharth.rawlani@ves.ac.in</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>City:</b></td>
+
+                        <td>Mumbai</td>
+
+                    </tr>
+
+                    
+                
+                </table>
+
+            </div>
+
+            <div style="position: absolute;top: 100px; left: 500px;">
+
+                <table style="background-color: #cf5b78 ;color: #000000" cellpadding="5" cellspacing="5", border="1"  >
+
+                    <h3><u>Education</u></h3>
+
+                    
+
+                    <tr>
+
+                        <td><b>College Name:</b></td>
+
+                        <td><a href="https://vesit.ves.ac.in/" style="color:#461852">Vivekanand Education Society Institute of Technology</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Course:</b></td>
+
+                        <td>Information Technology</td>
+
+                    </tr>
+
+            
+
+                    <tr>
+
+                        <td><b>Year:</b></td>
+
+                        <td>Third Year</td>
+
+                    </tr>
+
+            
+
+                   
+
+            
+
+                    <tr>
+
+                        <td><b>College Address:</b></td>
+
+                        <td>Collector Colony, Chembur</td>
+
+                    </tr>
+
+                    <tr>
+
+                    <td><b>Skill Set:</b></td>
+
+                    <td>
+
+                            <ul>
+
+                                  <li>C</li>
+
+                                  <li>Java</li>
+
+                                  <li>Python</li>
+
+                                  <li>C++</li>
+
+                            </ul> 
+
+                    </td> 
+
+                    </tr>
+
+                </table>
+
+            </div>
+
+            <div style="position: absolute;top: 400px; left: 500px;">
+
+                <br>
+
+	
+
+		
+
+  		
+
+  		
+
+		
+
+		
+
+		
+
+        
+
+		<h3><b><u>Introduction Video</u></b></h3>
+
+		<iframe width="727" height="409" src="https://www.youtube.com/embed/6iKUlPIw8X0" 
+        title="vivekanand education society's institute of technology chembur | vesit mumbai |"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+        picture-in-picture" allowfullscreen>
+
+        </iframe>>
+
+        
+        </iframe>
+
+  		</br>
+
+            </div>
+
+
+
+        </div>
+
+
+	</body>
+
+</html>
